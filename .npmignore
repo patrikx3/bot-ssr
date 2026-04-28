@@ -1,0 +1,7 @@
+secure/
+agents/
+.claude/
+.vscode/
+.codex/
+CLAUDE.md
+AGENTS.md
